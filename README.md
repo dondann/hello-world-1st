@@ -1,5 +1,5 @@
 # hello-world
-just repository
+just repository for learning
 
 hi all!
 
